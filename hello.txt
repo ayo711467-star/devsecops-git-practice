@@ -1,2 +1,3 @@
 Hello from master and conflict branch
 Learning Git remote
+this change was made on GitHub 
